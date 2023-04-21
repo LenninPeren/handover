@@ -1,0 +1,17 @@
+1. Construir el proyecto INET
+
+2. Buscar la carpeta /showcases/wireless
+
+3. Crear una nueva carpeta y llamarla HandoverShowcase
+
+4. Crear un nuevo archio .net y .ini 
+
+5. El archivo .net nombrarlo coomo HandoverShowcase.ned, el .ini dejarlo con el nombre predeterminado
+
+6. Reemplazar el contendio de cada archivo creado por el contenido en este repositorio 
+
+7. Guardar cambios 
+
+8. Seleccionar el archivo .ini creado, click derecho y luego en Build project. 
+
+9. Sin no hay errores, dar en RUN AS -> OMNET++ Simulation, para ejecutar la simulación 
